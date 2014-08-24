@@ -1,4 +1,4 @@
-startupwatercooler
-==================
+serversidesolvers.github.io
+===========================
 
-web site of startup watercooler (formerly server side solvers?)
+Server Side Solvers - Beertrepreneurs from Ghent!
